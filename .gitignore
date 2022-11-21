@@ -150,4 +150,7 @@ Notes.txt
 #*.html
 *backtest-chart.html
 *candlestick.html
-.vscode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
